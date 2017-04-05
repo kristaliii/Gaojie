@@ -1,0 +1,38 @@
+
+1.发现导出成功的excel表格在pda上可以看见，但是连接电脑后找不到，需要重启pda方可查看；
+2.导入：直接将源文件另存为.xls格式的文件，复制到指定文件夹下就能导入成功；
+
+导出activity里面 ButterKnife.bind(this);没有报错，
+导入activity里面 ButterKnife.bind(this);报错；
+
+发送的excel表格里面的数据和Android显示出来的数据不一样，需要重新将原excel表格的数据拷贝出来，新建一个
+同名的.xls的表格，粘贴到新建的表格中；
+
+3.子线程中获取到的数据可以赋值给成员变量，此时成员变量是有值的；
+
+4.app-debug.apk 考进设备安装不行，部署程序可以运行；
+
+5.  Intent intent = new Intent(this, ActivityExport.class);
+    intent.putStringArrayListExtra("stringarray", list);
+    setResult(0, intent);
+    //    startActivity(intent); // 这个不能写，否则回到ActivityExport中后onActivityResult不执行
+    finish();
+
+6. android:listSelector="#00000000" 在ListView的xml中加入；
+   效果：点击item的时候不会有系统存在的背景色
+
+7.发现OnScroll方法一直在调用，只有添加totalItemCount!=MAX_COUNT此判断来解决了；
+
+8. 在广播中构造另一个带ArrayList<String> listSummary参数的构造方法，然后在ActivityImport里面新建对象，
+    ArrayList<String> listSummary = new ArrayList<String>();
+    BarcodeImportBroadcast bib = new BarcodeImportBroadcast(ArrayList<String> listSummary);
+    运行后在onReceive方法里面listSummary.add(list.get(i).getBarcode());这一行报错空指针；
+    那是因为广播不是普通的对象，他是需要注册后才能用的，bib没有注册；故用
+    setInitListSummary(ArrayList<String> listSummary)来替代；
+
+9.日历对话框点击日期结束后，返回的日期字符串肯定是""的，不可能实时返回。所以用到handler来实时返回日历信息；
+
+10.删除的逻辑需要再new 一个空的selectItem集合，把所有选择的item添加到该集合；从数据库删除数据的时候，数据库
+   中的数据需要有唯一不变的标识；
+
+11. 如果barcode没有重写equals方法，那么list里面的 removeAll则会返回false；

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_f8afb2bca9b6058d5934db0e144a70ce9b1c6bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2e1292de1fcd1d356bcd041e4d88c100173035c3">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_da03f73feb01b79626d85643a235978f574f6ca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.0.1_4591a9afb170d2ac75e9d697f463554e55528ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_df1a06ed7987dbd44daee4ae0435f3a0c6a86e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_38d64311f8e610b5940085da6df42a0768379ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_77e21306f06385fc3fb216da5d595ee510bc6cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_fd7cf86f28954d5ecfa3078b29add708cfc66217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_4591a9afb170d2ac75e9d697f463554e55528ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.1_fd7cf86f28954d5ecfa3078b29add708cfc66217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_692aa5824b7487d278e853fd31b9756cf39a0c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_c2ae3c660cafa80952d1b9f00798aaa5cc8ba13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9a4b91f4c183fa431632c0ac0a99fa495ac9a247">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\instant-run_f6a1b385649fb1b8ebbe695b88377074b9bf3fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.0.1_c2ae3c660cafa80952d1b9f00798aaa5cc8ba13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\support-annotations-25.0.1_f8afb2bca9b6058d5934db0e144a70ce9b1c6bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4930ae4e18ee6aec67629cdd83b3a0a1290792c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\jxl_2ffbeb6d6addd1862dfb4192b544b8b75fdc0930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.0.1_be2d8cad9ae19fe0e42d61388691be359f0fa816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.0.1_ea36ba4b19d7a2e3ba08b83c1dfe653e264f7ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_ea36ba4b19d7a2e3ba08b83c1dfe653e264f7ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_4930ae4e18ee6aec67629cdd83b3a0a1290792c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_be2d8cad9ae19fe0e42d61388691be359f0fa816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\libs\jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\jxl_2ffbeb6d6addd1862dfb4192b544b8b75fdc0930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d0835fa00a230c2a38b6a1cc75e7bff377b4da82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_f9797f0d79b781a6a813b0a8e85f0daad7481874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.jakewharton-butterknife-8.0.1_f0ded5a3aaf77a1c67385f989e6b18f6af5fa170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_692aa5824b7487d278e853fd31b9756cf39a0c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.0.1_77e21306f06385fc3fb216da5d595ee510bc6cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_d0e1b98d86c8e79f9c03fc4a2cc509fb3bceef49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.0.1_d0e1b98d86c8e79f9c03fc4a2cc509fb3bceef49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_402940cbe0a8cc746f2102da6b4cfa79dae71828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_38d64311f8e610b5940085da6df42a0768379ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f9797f0d79b781a6a813b0a8e85f0daad7481874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.0.1_df1a06ed7987dbd44daee4ae0435f3a0c6a86e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_f0ded5a3aaf77a1c67385f989e6b18f6af5fa170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.0.1_d0835fa00a230c2a38b6a1cc75e7bff377b4da82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_402940cbe0a8cc746f2102da6b4cfa79dae71828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.0.1_2be678b555fa001bf01f817c694b1d055d05f6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\AndroidStudioProjects\Gaojie\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_2be678b555fa001bf01f817c694b1d055d05f6f1.jar" />
+    </item>
+
+</items>

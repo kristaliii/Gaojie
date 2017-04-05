@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/laySetting"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorMingLanSe">
+
+        <ImageView
+            android:id="@+id/iv_merge_back"
+            android:layout_width="35dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@mipmap/back" />
+
+        <TextView
+            android:id="@+id/tv_merge_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="60dp"
+            android:gravity="center"
+            android:text=""
+            android:textColor="@color/baise"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/iv_merge_menu"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/selector_edit"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</merge>
