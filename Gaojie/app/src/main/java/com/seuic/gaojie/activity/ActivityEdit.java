@@ -65,6 +65,7 @@ public class ActivityEdit extends BaseActivity {
             list.add(0,text);
         }
         adapter.notifyDataSetChanged();
+
     }
 
     /**

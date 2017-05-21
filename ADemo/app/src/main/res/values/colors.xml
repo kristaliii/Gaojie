@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="juse">#F75918</color>
+    <color name="huise">#C8C8C8</color>
+    <color name="huibaise">#E7EBEF</color>
+    <color name="heise">#000000</color>
+    <color name="baise">#FFFFFF</color>
+    <color name="confirm">#63D7C6</color>
+    <color name="lanse">#0079D6</color>
+    <color name="tiankongse">#39B6FF</color>
+    <!-- 薄荷色 -->
+    <color name="whitesmoke">#F5F5F5</color>
+</resources>

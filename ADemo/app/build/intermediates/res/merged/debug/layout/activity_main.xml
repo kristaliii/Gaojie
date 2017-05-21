@@ -1,0 +1,222 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/et_test"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textview_centerround_selector"
+                android:clickable="false" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:enabled="false"
+                android:text="Enabled" />
+
+            <Button
+                android:id="@+id/clickButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="clickButton"
+                android:text="Clickable"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_main_nomal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="doClick"
+                android:text="姝ｅ父"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_main_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="Dialog"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_main_vp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="ViewPager"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bitmap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="Bitmap"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textview_centerround_selector" />
+
+            <Button
+                android:id="@+id/bt_mainactivity_sn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="SN"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_mainactivity_broadcast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="骞挎挱鎺у埗鎵弿宸ュ叿"
+                android:textSize="10sp" />
+
+            <Button
+                android:id="@+id/bt_mainactivity_scan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="scan" />
+
+            <Button
+                android:id="@+id/bt_mainactivity_service"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="service"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_mainactivity_touch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:text="onTouchListener"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_mainactivity_lsv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="lsvSelector"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/et_main_danjuhao"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textview_centerround_selector"
+                android:gravity="center"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/bt_main_time"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="鍗曟嵁鍙�"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_main_xmlpullparser"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="XmlPullParser"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_main_stu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="StuXml"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/bt_main_second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="onClick"
+                android:text="绗簩涓富鐣岄潰"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btSdcard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="getSdcard"
+            android:text="sdcard鐩綍"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/btJni"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:onClick="getJni"
+            android:text=".so璋冪敤"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

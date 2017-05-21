@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ADemo\app\libs\misc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db3507fd4906ec5318c1e98f86a9c18bc63cd5ed">
+        <dex dex="F:\AndroidStudioProjects\ADemo\app\build\intermediates\pre-dexed\debug\misc_05021b410a5792e8c2251fa9060fd5ea5361df42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ADemo\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="F:\AndroidStudioProjects\ADemo\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_b480411172c75ad85d4b37d9dd774f827582a854.jar" />
+    </item>
+
+</items>

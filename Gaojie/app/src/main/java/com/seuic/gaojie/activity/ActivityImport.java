@@ -58,7 +58,7 @@ public class ActivityImport extends BaseActivity implements BarcodeImportBroadca
 
     private BarcodeImportBroadcast receiver;
     private  int MAX_COUNT ;//表示服务器上总共有MAX_COUNT条数据
-    private final int EACH_COUNT = 20;//表示每次加载的条数
+    private final int EACH_COUNT = 9;//表示每次加载的条数
     private View mFooterView;
     private Handler handler=new Handler();
     private BarcodeImportAdapter adapter;

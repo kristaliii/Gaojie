@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\item_listview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bt_devices.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\bt_devices.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stumain.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_stumain.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menuspinner.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\menuspinner.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bt_device_item.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\bt_device_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_multi.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vpfragment.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_vpfragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menudialog.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\item_menudialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_forth.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\item_listview_forth.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sn.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_sn.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connected.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_connected.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fifth.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_fifth.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fourth.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_fourth.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lsv.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\item_lsv.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clock.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_clock.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fileselect.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\fileselect.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_bitmap.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_fifth.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\item_listview_fifth.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity2_filemanager.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity2_filemanager.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity3_lsv.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity3_lsv.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pulllistview.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_pulllistview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_androidmain.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_androidmain.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soap.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_soap.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_2.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\list_item_2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_third.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\item_listview_third.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_third.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity2_main.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity2_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity2_broadcast.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\layout\\activity2_broadcast.xml"
+    }
+]

@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/baise"
+    android:orientation="vertical">
+
+    <include layout="@layout/top_merge" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/dp5"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_main_in"
+            style="@style/LinearLayoutLeft">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                style="@style/ImageView"
+                android:src="@drawable/selector_in" />
+
+            <TextView
+                style="@style/TextView"
+                android:text="入库管理" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_main_out"
+            style="@style/LinearLayoutRight">
+
+            <ImageView
+                style="@style/ImageView"
+                android:src="@drawable/selector_out" />
+
+            <TextView
+                style="@style/TextView"
+                android:text="出库管理" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/dp5"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_main_check"
+            style="@style/LinearLayoutLeft">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                style="@style/ImageView"
+                android:src="@drawable/selector_check" />
+
+            <TextView
+                style="@style/TextView"
+                android:text="盘点管理" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_main_data"
+            style="@style/LinearLayoutRight">
+
+            <ImageView
+                style="@style/ImageView"
+                android:src="@drawable/selector_data" />
+
+            <TextView
+                style="@style/TextView"
+                android:text="数据管理" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/dp5"
+        android:layout_weight="1"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_main_system"
+            style="@style/LinearLayoutLeft">
+
+            <ImageView
+                android:id="@+id/imageView"
+                style="@style/ImageView"
+                android:src="@drawable/selector_system" />
+
+            <TextView
+                style="@style/TextView"
+                android:text="系统管理" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_main_pandian"
+            style="@style/LinearLayoutRight">
+
+            <ImageView
+                style="@style/ImageView"
+                android:src="@drawable/selector_cancel" />
+
+            <TextView
+                android:id="@+id/textView"
+                style="@style/TextView"
+                android:text="注销管理" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

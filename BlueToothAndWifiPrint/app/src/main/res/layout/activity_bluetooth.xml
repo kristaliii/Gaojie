@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/silver"
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/lv_bluetooth_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/bt_bluetooth_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="搜索蓝牙"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll_bluetooth_info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:visibility="gone"
+        >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="instrution_set" />
+
+            <Spinner
+                android:id="@+id/sp_bluetooth_instrution_set"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_bluetooth_connect"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="连接" />
+        <Button
+            android:id="@+id/btn_bluetooth_print"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="打印"
+            />
+    </LinearLayout>
+
+</LinearLayout>

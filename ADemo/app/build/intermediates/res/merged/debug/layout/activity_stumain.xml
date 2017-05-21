@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".StudentActivity" >
+
+
+    <EditText 
+        android:id="@+id/et1"
+        android:hint="濮撳悕"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText 
+        android:id="@+id/et2"
+        android:hint="鎬у埆"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et1"
+        />
+    <EditText 
+        android:id="@+id/et3"
+        android:hint="骞撮緞"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et2"
+        />
+    <Button 
+        android:id="@+id/bt1"
+        android:text="瀛�"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et3"
+        android:layout_alignParentRight="true"
+        android:onClick="cun"
+        />
+    <Button 
+        android:id="@+id/bt2"
+        android:text="鍙�"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bt1"
+        android:layout_alignParentRight="true"
+        android:onClick="qu"
+        />
+    <TextView 
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/bt1"
+        />
+    
+    
+    
+</RelativeLayout>
+
+
+
+

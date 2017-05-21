@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_lsv.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\drawable\\selector_lsv.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_editext.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\drawable\\shape_editext.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_checkbox.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\drawable\\selector_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ADemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_centerround_selector.xml",
+        "source": "F:\\AndroidStudioProjects\\ADemo\\app\\src\\main\\res\\drawable\\textview_centerround_selector.xml"
+    }
+]

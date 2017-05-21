@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/button_2"
+        android:title="   SecondActivity"/>
+    
+    <item
+        android:id="@+id/button_3"
+        android:title="   ThirdActivity"/>
+    
+    <item
+        android:id="@+id/button_4"
+        android:title="   FourthActivity"/>
+    
+    <item
+        android:id="@+id/button_5"
+        android:title="   FifthActivity"/>
+    
+    <item
+        android:id="@+id/button_multi"
+        android:title="   MultiChoiceActivity"/>
+    
+     <item
+        android:id="@+id/clock"
+        android:title="  时间"/>
+     
+     <item
+        android:id="@+id/button_0"
+        android:title="   其他"/>
+     
+    <item
+        android:id="@+id/button_1"
+        android:title="   其他"/>
+
+</menu>
